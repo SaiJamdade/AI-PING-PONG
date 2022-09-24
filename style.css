@@ -1,0 +1,14 @@
+body{
+    background-image:url(img.jpg);
+    background-size: cover;
+}
+
+.heading{
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+}
+
+#btn{
+    float: right;
+}
